@@ -5,5 +5,6 @@ public class work3 {
         System.out.println("day 3 project started");
         System.out.println(" added");
         System.out.println("added");
+        System.out.println("added1");
     }
 }
