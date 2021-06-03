@@ -6,5 +6,6 @@ public class work3 {
         System.out.println(" added");
         System.out.println("added");
         System.out.println("added1");
+        System.out.println("done");
     }
 }
